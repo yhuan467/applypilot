@@ -1,0 +1,3 @@
+date,rule_category,rule,reason,source_blocker_or_lesson,status
+2026-07-23,screening,Default first runs to lead-finding-only before any real applications.,Reduce risk while validating setup and screening behavior.,Initial onboarding,active
+2026-07-23,resume,Use analyst resume for analyst-family roles and technical resume for engineering-family roles.,Keeps candidate story coherent and improves resume matching.,Initial onboarding,active

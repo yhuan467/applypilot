@@ -1,0 +1,3 @@
+role_family,resume_file_path,use_for_titles,avoid_for_titles,tailor_threshold,notes
+Analyst,/Users/katiehuang/Downloads/Yun_s_Resume.pdf,"Analyst; Data Analyst; Business Analyst; Quantitative Analyst","Software Engineer; ML Engineer; AI Infrastructure; Full Stack",High,Use this for analytics-heavy roles.
+Technical,/Users/katiehuang/Downloads/Yun_s_Resume (1).pdf,"Software Engineer; ML Engineer; AI Infrastructure; Full Stack Engineer","Analyst; Data Analyst; Business Analyst",High,Use this for technical entry-level roles.

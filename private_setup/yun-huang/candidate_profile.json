@@ -1,0 +1,94 @@
+{
+  "candidate": {
+    "legal_name": "Yun Huang",
+    "preferred_name": "Yun",
+    "email": "yhuan467@asu.edu",
+    "phone": "(650) 770-6694",
+    "current_location": "Tempe, AZ, United States",
+    "linkedin_url": "https://www.linkedin.com/in/katie-huang-90230b300",
+    "portfolio_url": "",
+    "github_url": "https://github.com/yhuan467"
+  },
+  "current_status": {
+    "current_role_or_framing": "New graduate in Computer Science seeking entry-level analyst and engineering roles.",
+    "employment_status_answer": "New graduate; open to full-time opportunities.",
+    "available_start_date": "Immediately",
+    "notice_period": "None"
+  },
+  "work_authorization": {
+    "country": "United States",
+    "current_authorization": "OPT",
+    "requires_sponsorship_now": false,
+    "requires_sponsorship_in_future": false,
+    "answer_exactly_as": "I am legally authorized to work in the United States. I do not require sponsorship now or in the future.",
+    "notes_for_unclear_forms": "Stored exactly as provided by the user on 2026-07-23. Ask the user before answering if the form wording differs or if the timeline changes."
+  },
+  "targets": {
+    "primary_role_families": [
+      "Analyst",
+      "Software Engineer",
+      "ML Engineer"
+    ],
+    "secondary_role_families": [
+      "AI Infrastructure",
+      "Full Stack Engineer"
+    ],
+    "roles_to_avoid": [
+      "Senior",
+      "Staff",
+      "Principal",
+      "Lead",
+      "Manager",
+      "Director"
+    ],
+    "target_industries": [],
+    "industries_to_avoid": [],
+    "target_company_stage": [],
+    "target_locations": [
+      "Tempe, AZ",
+      "Phoenix Metro",
+      "Remote US",
+      "Open to relocation across the United States"
+    ],
+    "remote_hybrid_onsite_preference": "Open to remote, hybrid, and onsite roles.",
+    "relocation_policy": "Open to relocation. Tempe is preferred when opportunities are otherwise comparable."
+  },
+  "compensation": {
+    "base_salary_range": "$70,000-$125,000",
+    "total_compensation_range": "Flexible depending on role scope and total package.",
+    "answer_strategy": "Defer when allowed; otherwise use the range above.",
+    "notes": "Ask before submitting if the form requires a number outside this range or asks for current compensation."
+  },
+  "resume_files": [
+    {
+      "role_family": "Analyst",
+      "file_path": "/Users/katiehuang/Downloads/Yun_s_Resume.pdf",
+      "version": "analyst-base-2026-07",
+      "use_when": "Analyst, data analyst, business analyst, quantitative analyst, analytics-heavy entry-level roles"
+    },
+    {
+      "role_family": "Technical",
+      "file_path": "/Users/katiehuang/Downloads/Yun_s_Resume (1).pdf",
+      "version": "technical-base-2026-07",
+      "use_when": "Software engineer, ML engineer, AI infrastructure, full stack engineer, and other technical entry-level roles"
+    }
+  ],
+  "voluntary_self_identification": {
+    "strategy": "prefer_not_to_say",
+    "fill_automatically": false,
+    "gender": "",
+    "race_ethnicity": "",
+    "veteran_status": "",
+    "disability_status": "",
+    "notes": "Default to Prefer not to say / decline / leave blank when available unless the user later adds exact answers."
+  },
+  "never_guess": [
+    "work authorization",
+    "sponsorship",
+    "salary expectations outside the stored range",
+    "degree dates if they differ from the resume",
+    "employment dates",
+    "voluntary self-identification",
+    "background check or non-compete questions"
+  ]
+}
