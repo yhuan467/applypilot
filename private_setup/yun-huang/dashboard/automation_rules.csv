@@ -1,3 +1,4 @@
 date,rule_category,rule,reason,source_blocker_or_lesson,status
 2026-07-23,screening,Default first runs to lead-finding-only before any real applications.,Reduce risk while validating setup and screening behavior.,Initial onboarding,active
 2026-07-23,resume,Use analyst resume for analyst-family roles and technical resume for engineering-family roles.,Keeps candidate story coherent and improves resume matching.,Initial onboarding,active
+2026-07-24,screening,When a posted compensation range is clearly below the stored minimum base-salary target, classify the role as Skipped rather than Pending.,Prevents low-fit analyst roles from taking review time.,First American Process Improvement Analyst Associate lead-finding trial,active

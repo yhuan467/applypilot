@@ -1,2 +1,3 @@
 date,found_count,submitted_count,skipped_count,blocked_count,needs_user_count,pending_count,top_sources,summary,user_actions_needed
 2026-07-23,0,0,0,0,0,0,"LinkedIn; Company sites; Simplify; Handshake","Onboarding complete. First lead-finding-only trial is ready.","Run a 3-5 job lead-finding-only trial."
+2026-07-24,5,0,1,0,0,4,"LinkedIn; Company sites; Simplify; Handshake","Lead-finding-only trial complete. Reviewed fresh roles from LinkedIn and company sites, checked Simplify and Handshake public listings, and kept 4 roles as Pending while skipping 1 analyst role that priced below the stored base-salary target.","Review the 4 Pending roles and choose which ones should move to manual application review next."
