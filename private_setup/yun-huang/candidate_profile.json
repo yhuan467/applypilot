@@ -7,6 +7,13 @@
     "email": "yhuan467@asu.edu",
     "phone": "(650) 770-6694",
     "current_location": "Arizona, United States",
+    "mailing_address": {
+      "street_1": "2401 E Rio Salado Pkwy Unit 1124",
+      "city": "Tempe",
+      "state": "Arizona",
+      "postal_code": "85288",
+      "country": "United States"
+    },
     "linkedin_url": "https://www.linkedin.com/in/katie-huang-90230b300",
     "portfolio_url": "https://portfolio-website-xi-sandy-52.vercel.app/",
     "github_url": "https://github.com/yhuan467"
@@ -14,6 +21,7 @@
   "current_status": {
     "current_role_or_framing": "Computer Science graduate seeking entry-level analyst and engineering roles.",
     "employment_status_answer": "Graduated and open to full-time opportunities.",
+    "current_company_answer": "N/A",
     "graduation_date": "2026-05-11",
     "available_start_date": "Immediately",
     "notice_period": "None",
@@ -65,6 +73,8 @@
     ],
     "remote_hybrid_onsite_preference": "Open to remote, hybrid, and onsite roles.",
     "relocation_policy": "Open to relocation. Tempe is preferred when opportunities are otherwise comparable.",
+    "relocation_assistance_answer": "Yes",
+    "relocation_assistance_notes": "If a company asks whether relocation assistance would be needed for an onsite role outside Tempe/Phoenix, answer Yes. The candidate is still willing to relocate even if the company does not provide relocation support.",
     "stretch_role_policy": "Include adjacent and slightly stretch technical roles when the fit still looks realistic for a strong new graduate."
   },
   "compensation": {

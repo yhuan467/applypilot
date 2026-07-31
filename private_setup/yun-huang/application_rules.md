@@ -52,6 +52,15 @@ Default skip when:
 - The posting is closed, duplicate, or already applied.
 - The role is not US-based and does not fit the stored work authorization context.
 
+## Duplicate Prevention
+
+- Before any real application attempt, check `job_pool.csv` and `application_log.csv`.
+- Treat `company + job_title` as the primary dedupe key.
+- Do not submit the same company and same role twice.
+- Do not resubmit any role already marked `Submitted`.
+- Do not reopen or resubmit the same company and same role when an earlier attempt is already recorded as `Blocked`, `Needs user`, or an active `Pending` follow-up unless the new run is an explicit retry with a different next step recorded in the dashboard.
+- If the same company has multiple distinct roles, treat them as separate only when the title is different.
+
 ## Hand Off to User
 
 Stop and ask the user when:
@@ -63,10 +72,17 @@ Stop and ask the user when:
 - A form requires a portfolio, custom writing sample, or other missing material.
 - The final submission is ready for review.
 
+## Approved Consents
+
+- The user has approved standard application affirmations that confirm the submitted information is truthful and complete.
+- The user has approved standard hiring-process acknowledgements that background verification may occur in later stages.
+- This approval does not extend to payment terms, account creation consents, arbitration clauses, non-compete clauses, or any unusual legal waiver beyond ordinary application truthfulness and background-check acknowledgement.
+
 ## Default Form Behavior
 
 - Fill clear basic fields automatically from Candidate Profile.
 - Use stored work authorization wording only when the form meaning clearly matches it.
+- When a form asks whether relocation assistance would be needed for an onsite role outside the candidate's current area, answer `Yes` under the stored relocation rule.
 - Leave voluntary self-ID blank or choose "Prefer not to say" when the form allows it.
 - Draft custom answers from Answer Bank patterns, then ask the user to confirm if a pattern does not already exist.
 - Always stop before final submit with a short summary.

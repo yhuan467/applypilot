@@ -35,9 +35,23 @@ Default answer:
 
 I am currently based in Tempe, Arizona, and I am open to roles across the United States.
 
+Mailing address:
+
+- 2401 E Rio Salado Pkwy Unit 1124
+- Tempe, Arizona 85288
+- United States
+
 Relocation answer:
 
 I am open to relocation based on the role and team.
+
+Relocation assistance answer:
+
+Yes. I am open to relocating for the role, and I would welcome relocation assistance if it is available.
+
+If a company does not offer relocation assistance:
+
+I am still willing to relocate if the role is a strong fit.
 
 Remote/hybrid/onsite answer:
 
@@ -63,6 +77,12 @@ When to ask:
 Default answer:
 
 I can start immediately.
+
+## Current Company / Employer
+
+Default answer:
+
+N/A
 
 ## Why This Company
 
