@@ -35,10 +35,11 @@ Apply quickly when a job matches:
 Review before applying when:
 
 - The role asks for 1-3 years but the work still looks realistic for a strong new grad.
-- The title is adjacent, such as data engineer, solutions engineer, or research engineer, and the content still fits the resume.
+- The title is adjacent, such as data engineer, solutions engineer, research engineer, backend engineer, infrastructure engineer, or systems-oriented software engineer, and the content still fits the resume.
 - The role is outside Arizona and not clearly remote, but relocation is possible.
 - Compensation is not listed.
 - The role is high-fit but long-form.
+- The role is a slight stretch, but the user explicitly wants realistic high-upside roles included when they still look attainable for a strong new graduate.
 
 ## Skip
 

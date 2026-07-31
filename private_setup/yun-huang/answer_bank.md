@@ -19,6 +19,11 @@ Default answer:
 
 I do not require sponsorship now or in the future.
 
+When a form explicitly lists visa-status style options such as `OPT`, `H1B`, `TN`, `None`, or `Other`:
+
+- Select `OPT` truthfully if OPT is one of the explicit choices.
+- Do not collapse that answer to `None`.
+
 When to ask:
 
 - The wording differs from the stored profile.
@@ -63,13 +68,21 @@ I can start immediately.
 
 Reusable pattern:
 
-I am interested in [company] because of its work in [product, technology, or market area]. I am especially drawn to roles where I can contribute with a mix of technical execution, data-driven thinking, and fast learning early in my career.
+I am interested in [company] because of its work in [product, technology, or market area], and I believe I can contribute meaningfully to that mission. I am especially drawn to teams where I can help through hands-on execution, strong ownership, and fast learning early in my career.
+
+Short version:
+
+I am excited about [company] because I believe I can genuinely help the team while growing through meaningful work.
 
 ## Why This Role
 
 Reusable pattern:
 
-This role fits my background because it combines [job requirement] with experience I have already built through research, engineering, and analytics projects. As a new graduate, I am looking for an entry-level role where I can contribute quickly while continuing to grow technically.
+This role fits my background because the qualities and responsibilities described in the job description align closely with how I work and what I have already built through research, engineering, and analytics projects. As a new graduate, I am looking for a role where I can contribute early while continuing to grow technically.
+
+Short version:
+
+This role stands out to me because the traits and responsibilities in the job description match my strengths, interests, and the kind of work I want to keep doing.
 
 ## Portfolio / Work Samples
 
@@ -77,11 +90,26 @@ Default links:
 
 - GitHub: https://github.com/yhuan467
 - LinkedIn: https://www.linkedin.com/in/katie-huang-90230b300
+- Portfolio: https://portfolio-website-xi-sandy-52.vercel.app/
 
 When to ask:
 
 - A role requires a portfolio URL and the user wants a separate portfolio linked.
 - The form asks for a custom work sample, writing sample, or confidential project detail.
+
+## Transcript / Education Verification
+
+Default transcript file:
+
+- /Users/katiehuang/Documents/SSR_TSRPT.pdf
+
+Education facts:
+
+- School: Arizona State University
+- Degree: Bachelor of Science in Computer Science
+- Graduation date: May 11, 2026
+- GPA: 3.42
+- Honors: Cum Laude
 
 ## Voluntary Self-ID
 
@@ -98,3 +126,4 @@ Strategy:
 | Why this company? | Use the reusable pattern above and personalize with public company context. | Always customize with company-specific detail. |
 | Why this role? | Use the reusable pattern above and map to the role family. | Customize when the role emphasizes a specific stack or domain. |
 | Tell us about yourself | New CS graduate with analyst and technical project experience, strong in Python, SQL, and building practical systems from data to interface. | Customize when the role is strongly analyst or strongly engineering focused. |
+| Why should we hire you? | I believe I can help quickly because I bring strong learning speed, hands-on execution, and experience turning technical ideas into practical results through research, engineering, and analytics work. | Customize when the role emphasizes a specific domain or stack. |

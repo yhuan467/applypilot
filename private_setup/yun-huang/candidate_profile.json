@@ -1,19 +1,32 @@
 {
   "candidate": {
     "legal_name": "Yun Huang",
+    "first_name": "Yun",
+    "last_name": "Huang",
     "preferred_name": "Yun",
     "email": "yhuan467@asu.edu",
     "phone": "(650) 770-6694",
-    "current_location": "Tempe, AZ, United States",
+    "current_location": "Arizona, United States",
     "linkedin_url": "https://www.linkedin.com/in/katie-huang-90230b300",
-    "portfolio_url": "",
+    "portfolio_url": "https://portfolio-website-xi-sandy-52.vercel.app/",
     "github_url": "https://github.com/yhuan467"
   },
   "current_status": {
-    "current_role_or_framing": "New graduate in Computer Science seeking entry-level analyst and engineering roles.",
-    "employment_status_answer": "New graduate; open to full-time opportunities.",
+    "current_role_or_framing": "Computer Science graduate seeking entry-level analyst and engineering roles.",
+    "employment_status_answer": "Graduated and open to full-time opportunities.",
+    "graduation_date": "2026-05-11",
     "available_start_date": "Immediately",
-    "notice_period": "None"
+    "notice_period": "None",
+    "resume_sync_note": "Stored resumes still need to be refreshed to match the confirmed graduation date of 2026-05-11."
+  },
+  "education": {
+    "school": "Arizona State University",
+    "degree": "Bachelor of Science",
+    "plan": "Computer Science",
+    "confer_date": "2026-05-11",
+    "degree_gpa": "3.42",
+    "degree_honors": "Cum Laude",
+    "transcript_file_path": "/Users/katiehuang/Documents/SSR_TSRPT.pdf"
   },
   "work_authorization": {
     "country": "United States",
@@ -21,7 +34,7 @@
     "requires_sponsorship_now": false,
     "requires_sponsorship_in_future": false,
     "answer_exactly_as": "I am legally authorized to work in the United States. I do not require sponsorship now or in the future.",
-    "notes_for_unclear_forms": "Stored exactly as provided by the user on 2026-07-23. Ask the user before answering if the form wording differs or if the timeline changes."
+    "notes_for_unclear_forms": "Stored exactly as provided by the user on 2026-07-23 and clarified again on 2026-07-31. If a form is a normal yes/no sponsorship question, use the stored no-sponsorship answer. If a form explicitly lists OPT as a visa-status or sponsorship-related option, select OPT truthfully rather than None."
   },
   "targets": {
     "primary_role_families": [
@@ -51,7 +64,8 @@
       "Open to relocation across the United States"
     ],
     "remote_hybrid_onsite_preference": "Open to remote, hybrid, and onsite roles.",
-    "relocation_policy": "Open to relocation. Tempe is preferred when opportunities are otherwise comparable."
+    "relocation_policy": "Open to relocation. Tempe is preferred when opportunities are otherwise comparable.",
+    "stretch_role_policy": "Include adjacent and slightly stretch technical roles when the fit still looks realistic for a strong new graduate."
   },
   "compensation": {
     "base_salary_range": "$70,000-$125,000",
